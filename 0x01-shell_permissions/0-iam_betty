@@ -1,3 +1,2 @@
 #!/bin/bash
-su - bettey
-
+su - betty
